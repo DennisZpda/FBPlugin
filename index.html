@@ -47,7 +47,7 @@
             var login = function () {
                 if (!window.cordova) {
                     // var appId = prompt("Enter FB Application ID", "");
-                    facebookConnectPlugin.browserInit(1513824715502296);
+                    facebookConnectPlugin.browserInit('1513824715502296');
                 }
                 facebookConnectPlugin.login( ["email"], 
                     function (response) { alert(JSON.stringify(response)) },

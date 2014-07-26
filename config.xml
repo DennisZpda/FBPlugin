@@ -9,4 +9,8 @@
     </author>
     <content src="index.html" />
     <access origin="*" />
+    <gap:plugin name="com.phonegap.plugins.facebookconnect">
+    <param name="APP_ID" value="1513824715502296" />
+    <param name="APP_NAME" value="TestLogin" />
+    </gap:plugin>
 </widget>
