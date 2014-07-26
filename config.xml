@@ -11,6 +11,6 @@
     <access origin="*" />
     <gap:plugin name="com.phonegap.plugins.facebookconnect">
     <param name="APP_ID" value="1513824715502296" />
-    <param name="APP_NAME" value="TestLogin" />
+    <param name="APP_NAME" value="HelloCordova" />
     </gap:plugin>
 </widget>
